@@ -1,0 +1,9 @@
+CREATE TABLE [dbo].[tblPosts]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Detalle] VARCHAR(100) NOT NULL, 
+    [Imagen] VARCHAR(250) NOT NULL, 
+    [Fecha] DATETIME NULL DEFAULT getdate(), 
+    [Like] INT NULL DEFAULT 0, 
+    [Views] INT NULL DEFAULT 0
+)

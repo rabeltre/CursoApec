@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="mydataModelStoreContainer" CdmEntityContainer="mydataEntities">
+    <EntitySetMapping Name="Oraciones">
+      <EntityTypeMapping TypeName="mydataModel.Oracione">
+        <MappingFragment StoreEntitySet="Oraciones">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="txtOracion" ColumnName="txtOracion" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPosts">
+      <EntityTypeMapping TypeName="mydataModel.tblPost">
+        <MappingFragment StoreEntitySet="tblPosts">
+          <ScalarProperty Name="Likes" ColumnName="Likes" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Detalle" ColumnName="Detalle" />
+          <ScalarProperty Name="Imagen" ColumnName="Imagen" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+          <ScalarProperty Name="Views" ColumnName="Views" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblLikes">
+      <EntityTypeMapping TypeName="mydataModel.tblLike">
+        <MappingFragment StoreEntitySet="tblLikes">
+          <ScalarProperty Name="Operacion" ColumnName="Operacion" />
+          <ScalarProperty Name="PostID" ColumnName="PostID" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblVotos">
+      <EntityTypeMapping TypeName="mydataModel.tblVoto">
+        <MappingFragment StoreEntitySet="tblVotos">
+          <ScalarProperty Name="Cantidad_Votos" ColumnName="Cantidad_Votos" />
+          <ScalarProperty Name="NombrePartido" ColumnName="NombrePartido" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="mydataModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Oraciones">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="txtOracion" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="fecha" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tblLikes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fecha" Type="datetime" Nullable="false" />
+    <Property Name="PostID" Type="int" Nullable="false" />
+    <Property Name="Operacion" Type="int" />
+  </EntityType>
+  <EntityType Name="tblPosts">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Detalle" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Imagen" Type="varchar" MaxLength="250" Nullable="false" />
+    <Property Name="Fecha" Type="datetime" />
+    <Property Name="Likes" Type="int" />
+    <Property Name="Views" Type="int" />
+  </EntityType>
+  <EntityType Name="tblVotos">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="NombrePartido" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Cantidad_Votos" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="mydataModelStoreContainer">
+    <EntitySet Name="Oraciones" EntityType="Self.Oraciones" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblLikes" EntityType="Self.tblLikes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblPosts" EntityType="Self.tblPosts" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblVotos" EntityType="Self.tblVotos" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,149 @@
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\csc.exe
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\csc.exe.config
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\csc.rsp
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\csi.exe
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\csi.exe.config
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\csi.rsp
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.AppContext.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Console.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\vbc.exe
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\vbc.exe.config
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\vbc.rsp
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\PrimeraApp.dll.config
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\PrimeraApp.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\PrimeraApp.pdb
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\System.Web.Helpers.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\System.Web.Mvc.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\System.Web.Razor.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\System.Web.Webpages.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\System.Web.Razor.xml
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\System.Web.Webpages.xml
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\System.Web.Helpers.xml
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\System.Web.Mvc.xml
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\obj\Debug\PrimeraApp.csprojResolveAssemblyReference.cache
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\obj\Debug\PrimeraApp.csproj.CoreCompileInputs.cache
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\obj\Debug\PrimeraApp.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\obj\Debug\PrimeraApp.pdb
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\EntityFramework.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\EntityFramework.SqlServer.dll
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\EntityFramework.xml
+C:\Users\CETA\Desktop\Rafael\CursoApec\PrimeraApp\bin\EntityFramework.SqlServer.xml
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\csc.exe
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\csc.exe.config
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\csc.rsp
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\csi.exe
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\csi.exe.config
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\csi.rsp
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.AppContext.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Console.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\vbc.exe
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\vbc.exe.config
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\vbc.rsp
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\PrimeraApp.dll.config
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\PrimeraApp.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\PrimeraApp.pdb
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\EntityFramework.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\EntityFramework.SqlServer.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\System.Web.Helpers.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\System.Web.Mvc.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\System.Web.Razor.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\System.Web.Webpages.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\EntityFramework.xml
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\EntityFramework.SqlServer.xml
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\System.Web.Razor.xml
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\System.Web.Webpages.xml
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\System.Web.Helpers.xml
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\bin\System.Web.Mvc.xml
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\obj\Debug\PrimeraApp.csprojAssemblyReference.cache
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\obj\Debug\PrimeraApp.csproj.CoreCompileInputs.cache
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\obj\Debug\PrimeraApp.csproj.CopyComplete
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\obj\Debug\PrimeraApp.dll
+C:\Users\RA Beltre\Documents\Proyect\CursoApec\PrimeraApp\obj\Debug\PrimeraApp.pdb
