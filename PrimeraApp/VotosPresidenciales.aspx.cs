@@ -10,7 +10,8 @@ namespace PrimeraApp
 {
     public partial class VotosPresidenciales : System.Web.UI.Page
     {
-        SqlConnection sqlConnection = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\CETA\Desktop\CursoApec-master\CursoApec-master\PrimeraApp\App_Data\mydata.mdf;Integrated Security=True");
+        //SqlConnection sqlConnection = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\CETA\Desktop\CursoApec-master\CursoApec-master\PrimeraApp\App_Data\mydata.mdf;Integrated Security=True");
+        SqlConnection sqlConnection = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\mydata.mdf;Integrated Security=True");
 
         protected void Page_Load(object sender, EventArgs e)
         {
