@@ -16,8 +16,15 @@ namespace PrimeraApp.Controllers
         }
 
         [HttpPost]
-        public ActionResult Index(FormCollection form) {
-            ViewBag.Mensaje = form["valor"];
+        public ActionResult Index(HttpPostedFileBase file) {
+
+            if (file != null && file.ContentLength > 0 )
+            {
+                var fileName = System.IO.Path.GetFileName(file.FileName);
+                var path = System.IO.Path.Combine(Server.MapPath("~/Images/"), fileName);
+                file.SaveAs(path);
+            }
+            ViewBag.Mensaje = "Archivo guardado";
             return View();
         }
 
