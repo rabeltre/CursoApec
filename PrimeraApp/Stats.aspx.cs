@@ -12,6 +12,10 @@ namespace PrimeraApp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            System.Diagnostics.Trace.WriteLine("GetData method was called.");
+            Trace.Write("Hola write");
+            Trace.Warn("Hola desde el log de la pagina");
+
             MyDataSetTableAdapters.tblPostsTableAdapter tblPostsTableAdapter = new MyDataSetTableAdapters.tblPostsTableAdapter();
 
 
