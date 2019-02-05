@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
@@ -9,24 +10,32 @@ namespace PrimeraApp.Controllers
     public class HomeController : Controller
     {
         // GET: Home
+        
         public ActionResult Index()
         {
             ViewBag.Mensaje = "Hola desde el controller";
             return View();
         }
+      
+
 
         [HttpPost]
-        public ActionResult Index(HttpPostedFileBase file) {
+        public ActionResult Index(HttpPostedFileBase File1) {
 
-            if (file != null && file.ContentLength > 0 )
+            if (File1 != null && File1.ContentLength > 0 )
             {
-                var fileName = System.IO.Path.GetFileName(file.FileName);
-                var path = System.IO.Path.Combine(Server.MapPath("~/Images/"), fileName);
-                file.SaveAs(path);
+                var file = Path.GetFileName(File1.FileName);
+                var path = Path.Combine(Server.MapPath("~/Images/"), file);
+                File1.SaveAs(path);
+                ViewBag.Mensaje = "Archivo guardado";
+                return View();
             }
-            ViewBag.Mensaje = "Archivo guardado";
+            ViewBag.Mensaje = "Archivo no guardado";
             return View();
         }
+        
+      
+  
 
         public ActionResult Sumar()
         {

@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeraApp", "PrimeraApp\PrimeraApp.csproj", "{EC9991D6-C8F5-4818-8FEA-E6F543FBF73E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeSuma", "ConsumeSuma\ConsumeSuma.csproj", "{28F9D274-BCB4-4BE5-A68B-5745588131A6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EC9991D6-C8F5-4818-8FEA-E6F543FBF73E} = {EC9991D6-C8F5-4818-8FEA-E6F543FBF73E}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +20,10 @@ Global
 		{EC9991D6-C8F5-4818-8FEA-E6F543FBF73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC9991D6-C8F5-4818-8FEA-E6F543FBF73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC9991D6-C8F5-4818-8FEA-E6F543FBF73E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F9D274-BCB4-4BE5-A68B-5745588131A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F9D274-BCB4-4BE5-A68B-5745588131A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F9D274-BCB4-4BE5-A68B-5745588131A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F9D274-BCB4-4BE5-A68B-5745588131A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

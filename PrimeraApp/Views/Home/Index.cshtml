@@ -5,9 +5,11 @@
 
 <h2>Index</h2>
 
-@ViewBag.Mensaje
 
-<form method="post">
-    <input id="valor" name="valor" type="file" /><input id="Submit1" type="submit" value="submit" />
+
+<form method="post" enctype="multipart/form-data">
+    <input id="File" name="File1" type="file" />
+    <br/>
+    <input id="Submit1" type="submit" value="Subir" />
 </form>
-
+@ViewBag.Mensaje

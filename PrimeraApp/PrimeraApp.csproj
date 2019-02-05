@@ -146,6 +146,7 @@
     <Content Include="Images\1.jpg" />
     <Content Include="Images\2.jpg" />
     <Content Include="Images\3.jpg" />
+    <Content Include="MyWebServicies.asmx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
@@ -202,6 +203,12 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Model1.cs" />
+    <Compile Include="Models\Oracione.cs" />
+    <Compile Include="Models\tblLike.cs" />
+    <Compile Include="Models\tblPost.cs" />
+    <Compile Include="Models\tblVoto.cs" />
     <Compile Include="MyDataSet.cs">
       <DependentUpon>MyDataSet.xsd</DependentUpon>
     </Compile>
@@ -209,6 +216,10 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>MyDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MyWebServicies.asmx.cs">
+      <DependentUpon>MyWebServicies.asmx</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Oracione.cs">
       <DependentUpon>entityDataModel.tt</DependentUpon>
@@ -297,9 +308,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
